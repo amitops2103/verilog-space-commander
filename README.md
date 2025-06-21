@@ -3,9 +3,12 @@
 
 # Stellar Strike AI
 
-**An intelligent Verilog-based fleet controller for the Makerchip ASIC Design Showdown 2025**
+**An intelligent Verilog-based fleet controller for the Makerchip ASIC Design Showdown 2025** 
 
-![banner](https://raw.githubusercontent.com/YOUR_GITHUB_ID/stellar-strike-ai/main/assets/banner.png)  
+
+https://github.com/user-attachments/assets/457d5ac1-64c4-4280-b916-6adb5570b11f
+
+
 *Engineered to dominate space through logic, prediction, and precision.*
 
 ---
