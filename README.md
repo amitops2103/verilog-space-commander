@@ -65,7 +65,7 @@ cd stellar-strike-ai
 ## 📂 File Structure
 ```bash
 stellar-strike-ai/
-├── team_YOUR_GITHUB_ID.tlv     # Main TL-Verilog control logic
+├── team_YOUR_GITHUB_ID.sv     # Main TL-Verilog control logic
 ├── showdown_lib.tlv            # Game framework (included from upstream)
 ├── assets/
 │   └── banner.png              # Optional banner/logo
