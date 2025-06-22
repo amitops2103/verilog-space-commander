@@ -8,6 +8,8 @@
 
 https://github.com/user-attachments/assets/457d5ac1-64c4-4280-b916-6adb5570b11f
 
+![video_middle_frame](https://github.com/user-attachments/assets/47c5ba39-1771-4ce1-959d-5ca4979da0e5)
+
 
 *Engineered to dominate space through logic, prediction, and precision.*
 
