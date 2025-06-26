@@ -10,6 +10,28 @@ https://github.com/user-attachments/assets/457d5ac1-64c4-4280-b916-6adb5570b11f
 
 ![video_middle_frame](https://github.com/user-attachments/assets/47c5ba39-1771-4ce1-959d-5ca4979da0e5)
 
+## Rules of Combat
+
+Your three ships can:
+
+- accelerate
+- fire up, down, left, or right
+- activate a shield
+- activate cloaking
+
+Each ship has a recharging energy supply. Each action costs energy. You might take an offensive strategy, firing often; you might take a defensive strategy, leaning heavily on your shields and cloaking; or you might focus on maneuverability. Your strategy is what sets you apart from your competition.
+
+Your ships are able to monitor the positions of the other ships (unless cloaked) and whether they are cloaked. They know which ships have been destroyed (on both teams). They cannot see enemy bullets or shields.
+
+Ships are destroyed when they are shot or when their hit box exits the play area.
+
+Control circuits have inputs characterizing the visible state of the system, and they provide outputs that affect this state on the next cycle. Acceleration is applied as an instantaneous burst that immediately affects velocity, which affects the position on the next cycle. The VIZ tab on a given cycle reflects the state as updated by the inputs on that cycle.
+
+The coordinate system is flipped 180 degrees between the opponents, around (0, 0) in the center, so the starting ship coordinates are the same for both opponents. The X dimension increases to the right, and the Y dimension increases upward.
+
+Ships are numbered 0, 1, 2 and have energy bars colored yellow, green, and blue, respectively. Players/teams are red and green, corresponding to 0 and 1 in the code, and, in VIZ, 1 and 2.
+
+Other game parameters like hit box and board sizes can be found at the top of `showdown_lib.tlv`.
 
 *Engineered to dominate space through logic, prediction, and precision.*
 
@@ -69,7 +91,7 @@ stellar-strike-ai/
 ├── showdown_lib.tlv            # Game framework (included from upstream)
 ├── assets/
 │   └── video_middle_frame      
-|    └── Showdown_2025_-_Space_Battle_Preview
+│   └── Showdown_2025_-_Space_Battle_Preview
 └── README.md
 ```
 
