@@ -68,7 +68,8 @@ stellar-strike-ai/
 ├── team_YOUR_GITHUB_ID.sv     # Main TL-Verilog control logic
 ├── showdown_lib.tlv            # Game framework (included from upstream)
 ├── assets/
-│   └── banner.png              # Optional banner/logo
+│   └── video_middle_frame      
+|    └── Showdown_2025_-_Space_Battle_Preview
 └── README.md
 ```
 
