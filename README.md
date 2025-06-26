@@ -106,11 +106,6 @@ If you'd like to fork, tune, or build on this logic:
 
 ---
 
-## 📜 License
-This project is open-source under the MIT License.
-
----
-
 ## 🏆 Credits
 - Designed by **YOUR NAME / TEAM NAME**
 - Developed for **The First Annual Makerchip ASIC Design Showdown, Summer 2025**
