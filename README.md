@@ -95,6 +95,7 @@ stellar-strike-ai/
 ├── assets/
 │   └── video_middle_frame      
 │   └── Showdown_2025_-_Space_Battle_Preview
+|   └── Verilog_AI_Thinking_Guide.pdf
 └── README.md
 ```
 
@@ -110,7 +111,7 @@ If you'd like to fork, tune, or build on this logic:
 ---
 
 ## 🏆 Credits
-- Designed by **YOUR NAME / TEAM NAME**
+- Designed by **amitops2103 / verilog-space-commander**
 - Developed for **The First Annual Makerchip ASIC Design Showdown, Summer 2025**
 - Hosted by [Redwood EDA](https://www.redwoodeda.com/)
 
