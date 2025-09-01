@@ -71,8 +71,10 @@ cd stellar-strike-ai
 | 1    | Defender     | Focuses on shields and cloaking           |
 | 2    | Navigator    | Manages movement to avoid destruction     |
 
+[**Strategy Guide**][Verilog_AI_Thinking_Guide.pdf](https://github.com/user-attachments/files/22082390/Verilog_AI_Thinking_Guide.pdf)
 ### Decision Flow
 ```
+
 1. Is enemy visible and uncloaked?
    └──> Predict future position
          └──> Fire in direction of intercept
